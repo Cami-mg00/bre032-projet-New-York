@@ -1,0 +1,114 @@
+html {
+    font-size: 62.5%; 
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #444;
+    font-size: 1.125em;
+    line-height: 1.5;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+
+header {
+    font-family: 'Courgette', cursive;
+    font-style: italic;
+    font-size: 2.5em;
+    text-align: center;
+    color: #003884;
+}
+
+
+nav {
+    font-family: 'Courgette', cursive;
+    font-size: 1.25em;
+    font-weight: bold;
+    font-style: italic;
+    color: #003884;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+blockquote {
+    font-family: 'Courgette', cursive;
+    font-size: 1.5em;
+    background-color: #d7e1ef;
+    padding: 10px;
+    text-align: center;
+}
+.quote {
+    font-size: 1.125em; 
+    margin-bottom: 10px;
+    text-align: center;
+    color:#003884
+}
+
+.author {
+    font-style: italic;
+    text-align: center;
+    color: #444;
+}
+
+
+h2 {
+    font-family: 'Courgette', cursive;
+    font-size: 2em;
+    font-style: italic;
+    text-align: center;
+    color: #4f89b9; 
+}
+
+h3 {
+    font-family: 'Courgette', cursive;
+    font-size: 1.5em; 
+    font-style: italic;
+    color: #003884;
+    text-align: center;
+}
+
+.italic {
+    font-style: italic;
+    color:#4f89b9;
+}
+
+.bold{
+    font-weight: bold;
+    color:#003884;
+}
+
+.flag-img{
+    float: right;
+    margin-left: 1em;
+}
+
+.statue-img{
+    float: left;
+    margin-right: 1em;
+}
+
+.bridge-img{
+    float: right;
+    margin-left: 1em;
+}
+
+.cab-img{
+    float: left;
+    margin-right: 1em;
+}
+
+footer{
+    text-align: center;
+}
+
+.social-icons {
+    font-size: 1.875em;
+    color: #003884; 
+    margin: 0 10px;
+    transition: color 0.3s; 
+}
+
+
